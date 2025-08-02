@@ -1,4 +1,4 @@
-echo Starting Installation of Blueprint.zip  Made by Para @ github
+# echo Starting Installation of Blueprint.zip  Made by Para @ github
 
 sudo apt-get install -y ca-certificates curl gnupg
 sudo mkdir -p /etc/apt/keyrings
