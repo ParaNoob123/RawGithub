@@ -1,4 +1,4 @@
-echo Starting Installation of Blueprint.zip 🤍 Made by Para @ github
+echo Starting Installation of Blueprint.zip  Made by Para @ github
 
 sudo apt-get install -y ca-certificates curl gnupg
 sudo mkdir -p /etc/apt/keyrings
@@ -15,5 +15,5 @@ unzip release.zip
 chmod +x blueprint.sh
 bash blueprint.sh
 
-echo Now you can use blueprint extensions! 🎉
+echo Now you can use blueprint extensions! 
 echo Made by Para @ github
